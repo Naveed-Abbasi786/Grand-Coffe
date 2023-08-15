@@ -1,0 +1,140 @@
+/* ipad Air */
+@media screen and (min-width:820px) and (max-width:1180px) {
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+    .logo {
+        margin-top: -2%;
+        width: 110%;
+        height: 100%;
+        padding-left: 2%;
+    }
+
+    .nav {
+
+        margin-top: 0%;
+    }
+
+    .navbar {
+        width: 100%;
+        height: 5vh;
+    }
+
+    ul {
+        display: grid;
+        margin-left: 12%;
+        grid-template-columns: 25% 30% 25% 45%;
+    }
+    .bg
+    {
+        top: 4%;
+        position: absolute;
+    background-size: 100% 50%;
+
+    }
+    #btn1
+{
+    width: 15%;
+    height: 4vh;
+}
+.About {
+    margin-top: 80%;
+    width: 100%;
+    height: 40vh;
+    grid-template-columns: 50% 47%;
+    
+}
+.itme1
+{
+    margin-top: 2%;
+}
+.itme2
+{
+    margin-top: 8%;
+    width: 100%;
+    height: 40vh;
+}
+#btn2 {
+    width: 25%;
+    height: 4vh;
+}
+.gallery
+{
+    width: 100%;
+    height: 120vh;
+}
+.gallerybox1
+{
+   width: 100%;
+   height: 30vh;
+}
+#btn3
+{   width: 18%;
+    height: 4vh;
+}
+#card1,#card2,#card3{
+    width: 28%;
+    height: 25vh;
+    margin-top: 2%;
+}
+.cardbox
+{
+    margin-top: 12%;
+}
+.icon
+
+{
+    width: 21%;
+    height: 15%;
+    margin-top: 17%;
+}
+#head5
+{
+   padding-top: 4%;
+   color: black;
+}
+#p4
+{
+   color: black;
+    margin-top: 4%;
+}
+.contenar
+{
+    height: 60vh;
+}
+#pic
+{
+    width: 30%;
+    height: 25vh;
+
+}
+#img2
+{
+    width: 100%;
+    height: 25vh;
+
+}
+#p6
+{
+    margin-left: 12%;
+}
+.cnt2
+ {
+    margin-top: -67%;
+ }
+ #head9
+{
+  width: 60%;
+}
+#snd
+{
+    width:30%;
+    height: 3vh;
+}
+
+}
+
+
